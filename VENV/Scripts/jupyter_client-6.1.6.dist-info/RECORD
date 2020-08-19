@@ -1,10 +1,11 @@
-../../bin/jupyter-kernel.exe,sha256=rbYTwRGvjL3x5MikyIEqZu1ORR4cgMF17t2Tu-zJ0qA,103310
-../../bin/jupyter-kernelspec.exe,sha256=uqIUP40v1lsw63yxneBAGBQwbG3FNp7VIfk1_D38bWM,103348
-../../bin/jupyter-run.exe,sha256=DNWbqXB_mtRB5gtHvlNc6kF70oPufakcqAhMlFqhVbQ,103327
+../../bin/jupyter-kernel.exe,sha256=AFAKmwkSg11n9lmknBDXxrJ5idFL44l10cTs0ejbfVM,106383
+../../bin/jupyter-kernelspec.exe,sha256=WpUot-sV_9GAce9JVLflKkcmwSa2KVCBg4UWeAjmHbo,106421
+../../bin/jupyter-run.exe,sha256=--nPJIDY-P4Kb82FrHAEpGUyvWLVTsa21Np9mD_gvsA,106400
 jupyter_client-6.1.6.dist-info/COPYING.md,sha256=qpOlS3g-w8Lq_llp0beUf0J6eBOEZVGuZaUuH6VIn0I,2888
 jupyter_client-6.1.6.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 jupyter_client-6.1.6.dist-info/METADATA,sha256=i0raSvKfyf0H-vgj_YidZxG0OGuPRJ5HhoOmLdAPpIQ,3880
 jupyter_client-6.1.6.dist-info/RECORD,,
+jupyter_client-6.1.6.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
 jupyter_client-6.1.6.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
 jupyter_client-6.1.6.dist-info/entry_points.txt,sha256=4Rhe7Qim9UFpD-xxjkTXWEJBIYSA1RdqE4NzIm70i1o,205
 jupyter_client-6.1.6.dist-info/top_level.txt,sha256=kTaXQk6cEqTor71E1CPWtT0z-nNrj3l0CtgCeszvds4,15

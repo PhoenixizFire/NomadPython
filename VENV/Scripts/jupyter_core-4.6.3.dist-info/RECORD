@@ -1,6 +1,6 @@
-../../bin/jupyter-migrate.exe,sha256=Zllu0NmoXB5Sw-eqGsumDsBZdPhrRObaxZB5Ixtz2Ao,103306
-../../bin/jupyter-troubleshoot.exe,sha256=7U7DLxeXBRIzlW-TscAHoYRkqyKw56LCPLfp2zsOtPI,103311
-../../bin/jupyter.exe,sha256=J5adHJrs2l9Z9mmB7zHDD30-VEtr8eeetZzdgkkP4aY,103306
+../../bin/jupyter-migrate.exe,sha256=hUEAupM0BO8TjALc5QKDx4ZIepYQDuGxnR_gh_-LuuY,106379
+../../bin/jupyter-troubleshoot.exe,sha256=Zs40MkBeJvhXJU5kzgD7bJ12QzJg7JcfjI8BWEf4XO8,106384
+../../bin/jupyter.exe,sha256=a1c4QpaBiob5n8gvVSybZPxrQTlDgLP2aXG7WEEaTu0,106379
 __pycache__/jupyter.cpython-37.pyc,,
 jupyter.py,sha256=KcoXGuOcZr_u-XLeiuycoVhlU4Zd6Kqgt7aNhgNgmIw,118
 jupyter_core-4.6.3.dist-info/COPYING.md,sha256=nfQCkEhMyzpfaQgpEtP3CqurlgHe5ol3S-qvutUctQ4,2936
